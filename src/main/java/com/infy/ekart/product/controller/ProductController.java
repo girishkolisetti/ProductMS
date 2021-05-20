@@ -88,7 +88,7 @@ public class ProductController {
 	
 	@GetMapping(value = "/subscribedproduct",  produces= MediaType.APPLICATION_JSON_VALUE)
 	public List<SubscribedProductDTO> getSubscribedProduct() {
-		//logger.info("");
+		
 			return spService.getSubscribedProductId();
 	}
 	
