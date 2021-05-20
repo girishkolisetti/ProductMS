@@ -1,0 +1,11 @@
+C:\Users\kolis\workspace\ProductMS\src\main\java\com\infy\productMS\entity\Product.java
+C:\Users\kolis\workspace\ProductMS\src\main\java\com\infy\productMS\ProductMsApplication.java
+C:\Users\kolis\workspace\ProductMS\src\main\java\com\infy\productMS\repository\ProductRepository.java
+C:\Users\kolis\workspace\ProductMS\src\main\java\com\infy\productMS\controller\ProductController.java
+C:\Users\kolis\workspace\ProductMS\src\main\java\com\infy\productMS\service\SubscribedProductService.java
+C:\Users\kolis\workspace\ProductMS\src\main\java\com\infy\productMS\entity\SubscribedProduct.java
+C:\Users\kolis\workspace\ProductMS\src\main\java\com\infy\productMS\repository\SubscribedProductRepository.java
+C:\Users\kolis\workspace\ProductMS\src\main\java\com\infy\productMS\dto\ProductDTO.java
+C:\Users\kolis\workspace\ProductMS\src\main\java\com\infy\productMS\entity\CompositePK.java
+C:\Users\kolis\workspace\ProductMS\src\main\java\com\infy\productMS\dto\SubscribedProductDTO.java
+C:\Users\kolis\workspace\ProductMS\src\main\java\com\infy\productMS\service\ProductService.java
