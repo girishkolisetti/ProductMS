@@ -1,0 +1,12 @@
+com\infy\ekart\product\entity\Product.class
+com\infy\ekart\product\dto\ProductDTO.class
+com\infy\ekart\product\dto\SubscribedProductDTO.class
+com\infy\ekart\product\service\SubscribedProductService.class
+com\infy\ekart\product\ProductMsApplication.class
+com\infy\ekart\product\repository\ProductRepository.class
+com\infy\ekart\product\service\ProductServiceImpl.class
+com\infy\ekart\product\exception\ProductException.class
+com\infy\ekart\product\entity\SubscribedProduct.class
+com\infy\ekart\product\repository\SubscribedProductRepository.class
+com\infy\ekart\product\entity\CompositePK.class
+com\infy\ekart\product\controller\ProductController.class
