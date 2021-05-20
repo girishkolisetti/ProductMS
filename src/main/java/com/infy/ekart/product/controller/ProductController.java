@@ -67,7 +67,7 @@ public class ProductController {
 		
 	}
 	
-	@RequestMapping(value="/productadd",method=RequestMethod.POST)
+	@RequestMapping(value="/product/add",method=RequestMethod.POST)
 	public ResponseEntity<String> addProductBySeller(@RequestBody ProductDTO product) throws ProductException{
 		
 		String productServ = productService.addProduct(product);
