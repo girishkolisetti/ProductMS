@@ -5,7 +5,7 @@ env:
     LOGIN: productms:sonartoken
     HOST: productms:host
     Organization: productms:organization
-    Project: productms:projectkey
+    Project: productms:projectKey
 
 phases:
   install:
