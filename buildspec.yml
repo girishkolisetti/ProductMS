@@ -15,9 +15,9 @@ phases:
     commands:
       - echo Logging into Amazon ECR
       - aws --version
-#       - aws configure set aws_access_key_id AKIA2LXVCVALTLMBETPC
-#       - aws configure set aws_secret_access_key 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
-#       - aws configure set default.region ap-south-1
+      - aws configure set aws_access_key_id AKIA2LXVCVALTLMBETPC
+      - aws configure set aws_secret_access_key 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
+      - aws configure set default.region ap-south-1
       - aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/r7c5k4t0
       - REPOSITORY_URI=public.ecr.aws/r7c5k4t0/productmsrepo
       - COMMIT_HASH=$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | cut -c 1-7)
